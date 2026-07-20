@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Yohannes Asnake
 
-<!--
-**JoeAsn/JoeAsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full-Stack AI Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about understanding how software systems work
+and building intelligent web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I focus on creating modern web applications using React and JavaScript,
+while continuously improving my skills toward full-stack development and AI integration.
+
+---
+
+## 🚀 Current Focus
+
+- Building responsive web applications with React
+- Learning TypeScript
+- Improving software development practices with Git and GitHub
+- Exploring AI-powered applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Chrome DevTools
+
+---
+
+## 📌 Featured Projects
+
+🛒 **React E-commerce Platform**  
+A modern e-commerce frontend built with React, featuring product browsing,
+cart functionality, authentication flow, and API integration.
+
+🤖 **Chef-Claude**  
+An AI-focused application exploring intelligent user experiences.
+
+💬 **React Chatbot**  
+A chatbot interface built with React.
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- Backend Development
+- AI Engineering
+
+---
+
+## 🤝 Connect With Me
+
+GitHub: https://github.com/YOUR_USERNAME
+
+LinkedIn: YOUR_LINKEDIN
