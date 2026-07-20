@@ -43,18 +43,6 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 
 <hr>
 
-<h2>📊 GitHub Analytics</h2>
-<p align="center">
-  <a href="https://github.com/JoeAsn">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoeAsn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="JoeAsn's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JoeAsn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeAsn&layout=compact&theme=tokyonight&hide_border=true" alt="JoeAsn's Top Languages" />
-  </a>
-</p>
-
 <hr>
 
 <h2>💻 Current Focus & Interests</h2>
