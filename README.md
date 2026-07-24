@@ -34,9 +34,7 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <h2>🛠️ Tech Stack</h2>
 <h3>Frontend & Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" /> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
 <h3>Tools & Environment</h3>
 <p>
