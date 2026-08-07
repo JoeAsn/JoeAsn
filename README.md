@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Yohannes%20Asnake&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  <h3>🚀 Aspiring Full-Stack AI Engineer</h3>
+  <h3>🚀 Software Enginner</h3>
 </div>
 
 <hr>
@@ -36,10 +36,10 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
-<h3>Backend & Databases</h3>
+<!-- <h3>Backend & Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres" />
-</p>
+</p> -->
 <h3>Tools & Environment</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
