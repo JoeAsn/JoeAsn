@@ -36,6 +36,10 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
+<h3>Backend & Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres" />
+</p>
 <h3>Tools & Environment</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
