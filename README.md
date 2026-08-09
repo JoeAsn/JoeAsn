@@ -18,15 +18,15 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <h2>📌 Featured Projects</h2>
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🛒 React E-commerce Platform</h3>
       <p>A modern e-commerce frontend built with React, featuring product browsing, cart functionality, authentication flow, and API integration.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🤖 Chef-Claude & Chatbot</h3>
       <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with React.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🤖 Carrier AI - Resume Analyzer</h3>
       <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with Typescript , tailwindcss , Gemini API</p>
     </td>
