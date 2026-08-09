@@ -26,6 +26,10 @@ Currently, I focus on creating modern web applications using React and JavaScrip
       <h3>🤖 Chef-Claude & Chatbot</h3>
       <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with React.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Carrier AI - Resume Analyzer</h3>
+      <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with Typescript , tailwindcss , Gemini API</p>
+    </td>
   </tr>
 </table>
 
