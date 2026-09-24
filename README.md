@@ -1,16 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Yohannes%20Asnake&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  <h3>🚀 Software Engineer</h3>
+  <h3>🚀 Software Engineer & Computer Science Student at Addis Ababa University</h3>
 </div>
 
 <hr>
 
 <h2>👨‍💻 About Me</h2>
 <p>
-Computer Science student passionate about understanding how software systems work and building intelligent web and mobile applications.
+Computer Science student at Addis Ababa University passionate about understanding how software systems work and building modern web and mobile applications.
 </p>
 <p>
-Currently, I focus on creating modern web applications using React and JavaScript, while continuously improving my skills toward full-stack development and AI integration.
+Currently, I focus on building modern applications using React, TypeScript, Node.js, and Express while continuously strengthening my full-stack development skills.
 </p>
 
 <hr>
@@ -56,10 +56,10 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 
 <h2>💻 Current Focus & Interests</h2>
 <pre><code>{
-  "role": "Computer Science Student & Aspiring AI Engineer",
-  "learning": ["TypeScript", "Backend Development", "AI Engineering"],
-  "interests": ["Full-Stack Development", "Intelligent Systems", "Modern Web Architecture"],
-  "tools": ["React", "Node.js", "Express", "Git & GitHub", "Vite"]
+  "role": "Software Engineer & Computer Science Student at Addis Ababa University",
+  "learning": ["TypeScript", "Backend Development", "Full-Stack Development"],
+  "interests": ["Software Engineering", "Full-Stack Development", "Intelligent Systems", "Modern Web Architecture"],
+  "tools": ["React", "TypeScript", "Node.js", "Express", "Git & GitHub", "Vite"]
 }
 </code></pre>
 
@@ -78,4 +78,3 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-</code></pre>
