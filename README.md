@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Yohannes%20Asnake&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-  <h3>🚀 Software Enginner</h3>
+  <h3>🚀 Software Engineer</h3>
 </div>
 
 <hr>
@@ -27,8 +27,8 @@ Currently, I focus on creating modern web applications using React and JavaScrip
       <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with React.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Carrier AI - Resume Analyzer</h3>
-      <p>AI-focused and conversational applications exploring intelligent user experiences and dynamic interactions built with Typescript , tailwindcss , Gemini API</p>
+      <h3>🤖 CareerAI - Resume Analyzer</h3>
+      <p>An AI-powered resume analyzer built with TypeScript and Tailwind CSS, integrating AI APIs to analyze resumes and provide actionable feedback.</p>
     </td>
   </tr>
 </table>
@@ -36,20 +36,21 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
+
 <h3>Frontend & Languages</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
-<!-- <h3>Backend & Databases</h3>
+
+<h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres" />
-</p> -->
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 <h3>Tools & Environment</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
 </p>
-
-<hr>
 
 <hr>
 
@@ -58,7 +59,7 @@ Currently, I focus on creating modern web applications using React and JavaScrip
   "role": "Computer Science Student & Aspiring AI Engineer",
   "learning": ["TypeScript", "Backend Development", "AI Engineering"],
   "interests": ["Full-Stack Development", "Intelligent Systems", "Modern Web Architecture"],
-  "tools": ["React", "JavaScript", "Git & GitHub", "Vite"]
+  "tools": ["React", "Node.js", "Express", "Git & GitHub", "Vite"]
 }
 </code></pre>
 
@@ -77,3 +78,4 @@ Currently, I focus on creating modern web applications using React and JavaScrip
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+</code></pre>
