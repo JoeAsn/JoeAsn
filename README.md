@@ -46,7 +46,10 @@ Currently, I focus on building modern applications using React, TypeScript, Node
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
+Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
 <h3>Tools & Environment</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" />
